@@ -24,10 +24,11 @@ Software:
 Resulting analysis of the election follows.
 1. There were 369,711 total votes.
 2. There were 3 County with voter turnout. 
-  - Jefferson: 10.5% (38,855)
-  - Denver: 82.8% (306,055)
-  - Arapahoe: 6.7% (24,801)
-3. The county with the largest Turnout: Denver
+  - Jefferson: with 10.5% (38,855 voters)
+  - Denver: with 82.8% (306,055 voters)
+  - Arapahoe: with 6.7% (24,801 voters)
+3. The county with the largest Turnout: 
+  - Denver
 4. There were 3 candidates that received votes.
   - Charles Casper Stockham: with 23.0% (85,213 votes)
   - Diana DeGette: 73.8% with (272,892 votes)
