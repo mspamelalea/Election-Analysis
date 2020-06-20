@@ -12,6 +12,7 @@ Complete and election audit/analysis of a recent Colorado local congressional el
 # Resources
 Data Source: 
 - election_results.csv
+
 Output file:
 - election_analysis.txt
 
